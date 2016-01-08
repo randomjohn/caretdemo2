@@ -1,6 +1,6 @@
 # caret talk for Upstate Analytics
 # John Johnson
-# March ?, 2015
+# Jan 13, 2016
 
 library(caret)
 library(doParallel)
@@ -25,7 +25,10 @@ extract.features <- function(df) {
 
 # we only have one dataset here, so I didn't really need to write the function above
 # but often, datasets will come as a train and a test, and the function
-# comes in very handy. Here, our dataset is pretty good.
+# comes in very handy. Here, our dataset is pretty good. Another approach is
+# to concatenate the training and test sets, and then split them out when data
+# cleaning is done. Note here we are not doing automated preprocessing, such
+# as centering or scaling.
 
 # har.data <- extract.features(har.data)
 
