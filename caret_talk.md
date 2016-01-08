@@ -1,7 +1,7 @@
 Caret: Classification and Regression Training
 ========================================================
 author: John D. Johnson, Ph.D.
-date: Mar ?, 2015
+date: Jan 13, 2016
 autosize: TRUE
 
 Bio
