@@ -1,4 +1,4 @@
-Upstate Analytics Meetup Group discussion on the caret package
+Upstate Data Science Meetup Group discussion on the caret package
 ==============================================================
 
 This repository contains all the files used at the Upstate Data Science Meetup Group on January 13, 2016. The purpose of the discussion was to introduce the caret package, a package designed for machine learning using the [R](http://www.r-project.org) package.
